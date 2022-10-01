@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-<!--
-**cer03stres/cer03stres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hello everybody I'm Pablo!
+I'm 24 years old and I am currently a university student of information systems technology, **Backend lover**, I like to learn new things every day and work in groups. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
